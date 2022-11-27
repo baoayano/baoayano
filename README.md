@@ -15,7 +15,7 @@ I'll improve my knowledge day by day.
 
 **My Current Language :** HTML (80%), CSS (70%), JavaScript (65%) [React (60%)], PHP (70%).
 
-**Currently learning :** Next.js
+**Currently learning :** Next.js, Discord.js.
 
 # **Other information**
 
