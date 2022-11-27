@@ -13,6 +13,10 @@ I'll improve my knowledge day by day.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harudev21)](https://github.com/harudev21/harudev21.github.io)
 
+**My Current Language :** HTML (80%), CSS (70%), JavaScript (65%) [React (60%)], PHP (70%).
+
+**Currently learning :** Next.js
+
 # **Other information**
 
 Check out : [https://harudev21.github.io/](https://harudev21.github.io/)
