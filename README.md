@@ -1,5 +1,9 @@
 ### nharu21's Github
 
+# **My Discord**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/891995563833315328)](https://discord.com/users/891995563833315328)
+
 # **About me**
 
 ・ I'm **Bao (nharu21)**, a normal student have a dream to become a Programmer and have now over 1 year experience.
