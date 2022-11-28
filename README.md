@@ -27,6 +27,8 @@ I'll improve my knowledge day by day.
 
 # **Contribution**
 ![rank](https://github-readme-streak-stats.herokuapp.com/?user=harudev21&theme=dracula&hide_border=true)
+![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harudev21&theme=dracula)
+![graph](https://activity-graph.herokuapp.com/graph?username=harudev21&theme=dracula)
 
 # **Other information**
 
