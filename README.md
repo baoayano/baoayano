@@ -13,7 +13,7 @@ I'll improve my knowledge day by day.
 
 # 💻 **Skills**
 
-**・ My Current Language :** HTML (80%), CSS (70%), JavaScript (65%) [React (60%)], PHP (70%).
+**・ My Current Language :**
 - HTML : 80% / 100%
 - CSS : 70% / 100%
 - JavaScript : 65% / 100%
