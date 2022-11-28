@@ -1,17 +1,17 @@
 ### nharu21's Github
 
-# 🤔 **About me**
+# **About me**
 
 ・ I'm **Bao (nharu21)**, a normal student have a dream to become a Programmer and have now over 1 year experience.
 I'll improve my knowledge day by day.
 
-# 👍 **Stats**
+# **Stats**
 
 ![harudev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=harudev21&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harudev21&theme=dracula)](https://github.com/harudev21/harudev21.github.io)
 
-# 💻 **Skills**
+# **Skills**
 
 **・ My Current Language :**
 - HTML : 80% / 100%
@@ -25,7 +25,10 @@ I'll improve my knowledge day by day.
 - Discord.JS : 40% / 100%
 - Python : 10% / 100%
 
-# 📌 **Other information**
+# **Contribution**
+![rank](https://github-readme-streak-stats.herokuapp.com/?user=harudev21&theme=dracula&hide_border=true)
+
+# **Other information**
 
 - **Facebook :** https://www.facebook.com/haru2125/
 - **Discord :** Haruto#2125
