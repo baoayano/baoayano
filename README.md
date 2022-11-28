@@ -27,4 +27,6 @@ I'll improve my knowledge day by day.
 
 # 📌 **Other information**
 
-Check out : https://harudev.vercel.app/
+- **Facebook :** https://www.facebook.com/haru2125/
+- **Discord :** Haruto#2125
+- **Website :** https://harudev.vercel.app/
