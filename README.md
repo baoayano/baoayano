@@ -5,12 +5,6 @@
 ・ I'm **Bao (nharu21)**, a normal student have a dream to become a Programmer and have now over 1 year experience.
 I'll improve my knowledge day by day.
 
-# **Stats**
-
-![harudev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=harudev21&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harudev21&theme=dracula)](https://github.com/harudev21/harudev21.github.io)
-
 # **Skills**
 
 **・ My Current Language :**
@@ -24,6 +18,16 @@ I'll improve my knowledge day by day.
 - Next.JS : 10% / 100%
 - Discord.JS : 40% / 100%
 - Python : 10% / 100%
+
+# **Stats**
+
+![harudev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=harudev21&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harudev21&theme=dracula)](https://github.com/harudev21/harudev21.github.io)
+
+# **Trophies**
+![](https://github-trophies.vercel.app/?username=harudev21&theme=dracula&no-frame=false&no-bg=false&margin-w=4)</br>
+![trophy](https://github-profile-trophy.vercel.app/?username=harudev21&column=6&&margin-w=4&theme=dracula)
 
 # **Contribution**
 ![rank](https://github-readme-streak-stats.herokuapp.com/?user=harudev21&theme=dracula&hide_border=true)
