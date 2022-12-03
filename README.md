@@ -2,7 +2,7 @@
 
 # **My Discord**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/891995563833315328)](https://discord.com/users/891995563833315328)
+[![Discord Presence](https://fel1x.tk/harudev1.svg)](https://discord.com/users/891995563833315328)
 
 # **About me**
 
