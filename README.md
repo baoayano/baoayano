@@ -6,8 +6,7 @@
 
 # **About me**
 
-・ I'm **Bao (nharu21)**, a normal student have a dream to become a Programmer and have now over 1 year experience.
-I'll improve my knowledge day by day.
+・ My name is **Bao (nharu21)**, i'm a normal student, gamer and a normal frontend developer.
 
 # **Skills**
 
