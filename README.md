@@ -40,4 +40,4 @@
 
 - **Facebook :** https://www.facebook.com/haru2125/
 - **Discord :** Haruto#2125
-- **Website :** https://harudev.vercel.app/
+- **Website :** https://harudev.xyz/
