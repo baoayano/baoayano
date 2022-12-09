@@ -1,6 +1,6 @@
 ### nharu21's Github
 
-# <div style="text-align:center;">**Chill ~**</div>
+# <div align="center"> **Chill ~** </div>
 
 [![Discord Presence](https://fel1x.tk/harudev1.svg)](https://discord.com/users/891995563833315328)
 
