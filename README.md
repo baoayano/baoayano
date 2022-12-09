@@ -3,7 +3,9 @@
 <h1 align="center"> Chill ~ </h1>
 
 <div align="center">
-  [![Discord Presence](https://fel1x.tk/harudev1.svg)](https://discord.com/users/891995563833315328)
+  <a href="https://discord.com/users/891995563833315328">
+    <img src="https://fel1x.tk/harudev1.svg">
+  </a>
 </div>
 
 # **About me**
