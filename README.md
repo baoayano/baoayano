@@ -10,7 +10,7 @@
   <br />
   <br />
   
-  <a href="https://harudev.xyz" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=520FF7&width=435&lines=Just+a+normal+frontend+developer.+Right+%3F" alt="Typing SVG" /></a>
+  <a href="https://harudev.xyz" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=520FF7&width=435&lines=Just+a+normal+frontend+developer.+GG+%3F" alt="Typing SVG" /></a>
 </div>
 
 # **About me**
