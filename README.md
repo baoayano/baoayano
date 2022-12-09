@@ -17,19 +17,14 @@
 
 ・ My name is **Bao (nharu21)**, i'm a normal student, gamer and a normal frontend developer.
 
-# **Skills**
+# **Programming Languages**
 
-**・ My Current Language :**
-- HTML : 80% / 100%
-- CSS : 70% / 100%
-- JavaScript : 65% / 100%
-- React : 60% / 100%
-- PHP : 70% / 100%
-
-**・ Currently learning :**
-- Next.JS : 10% / 100%
-- Discord.JS : 40% / 100%
-- Python : 10% / 100%
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
+</p>
 
 # **Stats**
 
