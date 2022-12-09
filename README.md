@@ -1,8 +1,10 @@
 ### nharu21's Github
 
-# <div align="center"> **Chill ~** </div>
+<h1 align="center"> Chill ~ </h1>
 
-[![Discord Presence](https://fel1x.tk/harudev1.svg)](https://discord.com/users/891995563833315328)
+<div align="center">
+  [![Discord Presence](https://fel1x.tk/harudev1.svg)](https://discord.com/users/891995563833315328)
+</div>
 
 # **About me**
 
