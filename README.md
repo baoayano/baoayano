@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
 </p>
 
-# **Technology / Library / Database**
+# **Library / Frameworks / Database**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
