@@ -17,7 +17,7 @@
 
 ・ My name is **Bao (nharu21)**, i'm a normal student, gamer and a normal frontend developer.
 
-# **Programming Languages / Library**
+# **Programming Languages**
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
