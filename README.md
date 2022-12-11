@@ -15,7 +15,9 @@
 
 # **About me**
 
-・ My name is **Bao (nharu21)**, i'm a normal student, gamer and a normal frontend developer.
+・ My name is **Bao (nharu21)**.
+・ He/Him - 13 years old.
+・ Just a normal Front-end Developer.
 
 # **Programming Languages**
 
