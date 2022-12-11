@@ -21,7 +21,7 @@
 
 ・ Just a normal Front-end Developer.
 
-# **Programming Languages**
+# **Languages**
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
