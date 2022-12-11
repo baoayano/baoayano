@@ -16,7 +16,9 @@
 # **About me**
 
 ・ My name is **Bao (nharu21)**.
+
 ・ He/Him - 13 years old.
+
 ・ Just a normal Front-end Developer.
 
 # **Programming Languages**
