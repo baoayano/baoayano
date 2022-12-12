@@ -3,13 +3,6 @@
 <h1 align="center"> Hello ? </h1>
 
 <div align="center">
-  <a href="https://discord.com/users/891995563833315328">
-    <img src="https://fel1x.tk/harudev1.svg">
-  </a>
-  
-  <br />
-  <br />
-  
   <a href="https://harudev.xyz" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=520FF7&width=435&lines=Just+a+normal+frontend+developer.+GG+%3F" alt="Typing SVG" /></a>
 </div>
 
