@@ -1,6 +1,6 @@
-### nharu21's Github
+### yuphie's Github
 
-<h1 align="center"> Chill ~ </h1>
+<h1 align="center"> Hello ? </h1>
 
 <div align="center">
   <a href="https://discord.com/users/891995563833315328">
@@ -15,7 +15,7 @@
 
 # **About me**
 
-・ My name is **Bao (nharu21)**.
+・ My name is **Bao**.
 
 ・ He/Him - 13 years old.
 
@@ -59,6 +59,6 @@
 
 # **Other information**
 
-- **Facebook :** https://www.facebook.com/haru2125/
-- **Discord :** Haruto#2125
+- **Facebook :** https://www.facebook.com/yuphiedev/
+- **Discord :** Yuphie#0001
 - **Website :** https://harudev.xyz/
