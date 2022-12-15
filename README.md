@@ -38,17 +38,17 @@
 
 # **Stats**
 
-![harudev21's GitHub stats](https://github-readme-stats.vercel.app/api?username=harudev21&show_icons=true&theme=dracula)
+[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=dracula)](https://github.com/yuphiedev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harudev21&theme=dracula)](https://github.com/harudev21/harudev21.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuphiedev&theme=dracula)](https://github.com/yuphiedev)
 
 # **Trophies**
-![](https://github-trophies.vercel.app/?username=harudev21&theme=dracula&no-frame=false&no-bg=false&margin-w=4)</br>
-![trophy](https://github-profile-trophy.vercel.app/?username=harudev21&column=6&&margin-w=4&theme=dracula)
+![](https://github-trophies.vercel.app/?username=yuphiedev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)</br>
+![trophy](https://github-profile-trophy.vercel.app/?username=yuphiedev&column=6&&margin-w=4&theme=dracula)
 
 # **Contribution**
-![rank](https://github-readme-streak-stats.herokuapp.com/?user=harudev21&theme=dracula&hide_border=true)
-![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harudev21&theme=dracula)
+![rank](https://github-readme-streak-stats.herokuapp.com/?user=yuphiedev&theme=dracula&hide_border=true)
+![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuphiedev&theme=dracula)
 
 # **Other information**
 
