@@ -54,4 +54,4 @@
 
 - **Facebook :** https://www.facebook.com/yuphiedev/
 - **Discord :** Yuphie#0001
-- **Website :** https://harudev.xyz/
+- **Website :** https://yuphie.xyz/
