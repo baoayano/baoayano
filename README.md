@@ -21,9 +21,7 @@
 
 # **Stats**
 
-[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=dracula)](https://github.com/yuphiedev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuphiedev&theme=dracula)](https://github.com/yuphiedev)
+[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=dracula)](https://github.com/yuphiedev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuphiedev&theme=dracula)](https://github.com/yuphiedev)
 
 # **Trophies**
 ![](https://github-trophies.vercel.app/?username=yuphiedev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)</br>
