@@ -1,6 +1,6 @@
 # **About me**
 
-<center>Welcome to my Github !</center>
+<p style="text-align: center;">Welcome to my Github !</p>
 
 # **Skills**
 
