@@ -21,14 +21,14 @@
 
 # **Stats**
 
-[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yuphiedev) 
+[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yuphiedev) 
 
 # **Trophies**
-![](https://github-trophies.vercel.app/?username=yuphiedev&theme=default#gh-light-mode-only&no-frame=false&no-bg=false&margin-w=4)
-![trophy](https://github-profile-trophy.vercel.app/?username=yuphiedev&column=6&&margin-w=4&theme=default#gh-light-mode-only)
+![](https://github-trophies.vercel.app/?username=yuphiedev&theme=dark#gh-dark-mode-only&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=yuphiedev&column=6&&margin-w=4&theme=dark#gh-dark-mode-only)
 
 # **Contribution**
-![rank](https://github-readme-streak-stats.herokuapp.com/?user=yuphiedev&theme=default#gh-light-mode-only&hide_border=true)
+![rank](https://github-readme-streak-stats.herokuapp.com/?user=yuphiedev&theme=dark#gh-dark-mode-only&hide_border=true)
 
 # **Other information**
 
