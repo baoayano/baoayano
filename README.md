@@ -1,6 +1,6 @@
 # **About me**
 
-<p align="center">Welcome to my Github !</p>
+<p>Normal Website Developer.</p>
 
 # **Skills**
 
@@ -25,8 +25,6 @@
 
 ![rank](https://github-readme-streak-stats.herokuapp.com/?user=yuphiedev&theme=dark#gh-dark-mode-only&hide_border=true&card_width=100px)
 
-# **Other information**
+<hr>
 
-- **Facebook :** https://www.facebook.com/yuphiedev/
-- **Discord :** Yuphie#0001
-- **Website :** https://yuphie.xyz/
+![](https://komarev.com/ghpvc/?username=yuphiedev&style=for-the-badge)
