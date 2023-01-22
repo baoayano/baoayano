@@ -21,10 +21,10 @@
 
 # **Stats**
 
-[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuphiedev&show_icons=true&theme=dark#gh-dark-mode-only&card_width=100px)](https://github.com/yuphiedev)
+[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayudev&show_icons=true&theme=dark#gh-dark-mode-only&card_width=100px)](https://github.com/yuphiedev)
 
-![rank](https://github-readme-streak-stats.herokuapp.com/?user=yuphiedev&theme=dark#gh-dark-mode-only&hide_border=true&card_width=100px)
+![rank](https://github-readme-streak-stats.herokuapp.com/?user=tayudev&theme=dark#gh-dark-mode-only&hide_border=true&card_width=100px)
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=yuphiedev&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=tayudev&style=for-the-badge)
