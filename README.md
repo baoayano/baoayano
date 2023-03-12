@@ -1,11 +1,11 @@
-# **About me**
+<img src="print.png" width="100%">
 
-<p>Normal Website Developer.</p>
+<p align="center">Just print and print...</p>
 
-# **Skills**
+## <p align="center">Skills</p>
 
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
@@ -19,12 +19,30 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PTS"></p>
 
-# **Stats**
+## <p align="center">Stats</p>
 
-[![yuphiedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=asakotayu&show_icons=true&theme=dark#gh-dark-mode-only&card_width=100px)](https://github.com/yuphiedev)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=asakotayu&show_icons=true&theme=dracula#gh-dark-mode-only&card_width=100px" alt="stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asakotayu&theme=dracula#gh-dark-mode-only&hide_border=true&card_width=100px" alt="stats2">
+</p>
 
-![rank](https://github-readme-streak-stats.herokuapp.com/?user=asakotayu&theme=dark#gh-dark-mode-only&hide_border=true&card_width=100px)
+## <p align="center">Trophies</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=asakotayu&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=asakotayu&column=6&&margin-w=4&theme=dracula" alt="trophies2">
+</p>
+
+## <p align="center">Discord</p>
+
+<p align="center">
+  <a href="https://discord.com/users/891995563833315328">
+    <img src="https://lanyard.cnrad.dev/api/891995563833315328" alt="discord">
+  </a>
+</p>
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=asakotayu&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asakotayu&style=for-the-badge" alt="views">
+</p>
