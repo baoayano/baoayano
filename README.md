@@ -1,7 +1,5 @@
 <img src="print.png" width="100%">
 
-<p align="center">Just print and print...</p>
-
 ## <p align="center">Skills</p>
 
 
