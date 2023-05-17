@@ -34,8 +34,8 @@
 ## <p align="center">Discord</p>
 
 <p align="center">
-  <a href="https://discord.com/users/815160165908480021">
-    <img src="https://lanyard.cnrad.dev/api/815160165908480021?theme=dark&bg=1d1d29" alt="discord">
+  <a href="https://discord.com/users/1005388195652972617">
+    <img src="https://lanyard.cnrad.dev/api/1005388195652972617?theme=dark&bg=1d1d29" alt="discord">
   </a>
 </p>
 
