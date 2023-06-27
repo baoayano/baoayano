@@ -1,7 +1,7 @@
 inactive github user.
 
 Contact me:
-- Discord: @anime.js / @bocchi_the_maid
+- Discord: @anime.js / @1x18
 - Facebook : https://www.facebook.com/asakotayu/
 
 Buy me a coffee:
