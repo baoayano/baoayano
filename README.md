@@ -1,8 +1,8 @@
-inactive github user.
+Welcome to my GitHub profile.
 
-Contact me:
-- Discord: @anime.js / @1x18
-- Facebook : https://www.facebook.com/asakotayu/
+<img src="print.png" width="100%">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
 
 Buy me a coffee:
 
