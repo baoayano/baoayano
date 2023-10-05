@@ -1,6 +1,6 @@
 Welcome to my GitHub profile.
 
-<img src="print.png" width="100%">
+<img src="https://asako.dev/touhou.png" width="100%">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
 
