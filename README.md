@@ -1,6 +1,6 @@
 <img src="https://asako.dev/touhou5.png" width="100%">
 
-<h2>Hello, I'm Asako!</h2>
+<h2>Hello, I'm TwinTwice!</h2>
 
 <ul>
   <li>💻 A casual student/website developer.</li>
@@ -10,9 +10,9 @@
 
 ### Statistics
 
-![Asako's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunocn&show_icons=true&theme=merko&hide_border=true)
+![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=twintwice&show_icons=true&theme=merko&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunocn&theme=merko&hide_border=true)](https://github.com/yunocn/yunocn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twintwice&theme=merko&hide_border=true)](https://github.com/twintwice/twintwice)
 
 ### My current setup
 
@@ -37,8 +37,8 @@
 
 <ul>
   <li><strong>Mail:</strong> me@asako.dev.</li>
-  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/natsumeyuno.cn/">Doan Bao</a>.</li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/yuno_cn">Yuno</a>.</li>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/twintwice.dev/">Doan Bao</a>.</li>
+  <li><strong>Twitter:</strong> <a href="https://twitter.com/twintwiceosu">TwinTwice</a>.</li>
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
