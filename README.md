@@ -1,6 +1,4 @@
-<img src="https://asako.dev/touhou5.png" width="100%">
-
-<h2>Hello, I'm TwinTwice!</h2>
+<h2>Hello, I'm Rushie!</h2>
 
 <ul>
   <li>💻 A casual student/website developer.</li>
