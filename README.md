@@ -34,9 +34,9 @@
 ### Contact
 
 <ul>
-  <li><strong>Mail:</strong> me@asako.dev.</li>
+  <li><strong>Mail:</strong> planet@rushie.space.</li>
   <li><strong>Facebook:</strong> <a href="https://www.facebook.com/twintwice.dev/">Doan Bao</a>.</li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/twintwiceosu">TwinTwice</a>.</li>
+  <li><strong>Twitter:</strong> <a href="https://twitter.com/mira_rushie">Rushie</a>.</li>
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
