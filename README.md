@@ -8,9 +8,9 @@
 
 ### Statistics
 
-![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=twintwice&show_icons=true&theme=merko&hide_border=true)
+![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiedev&show_icons=true&theme=merko&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twintwice&theme=merko&hide_border=true)](https://github.com/twintwice/twintwice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiedev&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 
 ### My current setup
 
