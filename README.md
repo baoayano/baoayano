@@ -27,7 +27,7 @@
 #### Other
 
 <ul>
-  <li><strong>Mouse:</strong> Logitech B100 (poor).</li>
+  <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li>
   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li>
 </ul>
 
