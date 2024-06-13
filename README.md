@@ -14,14 +14,24 @@
 
 ### My current setup
 
+#### Desktop specs
+
+<ul>
+  <li><strong>CPU:</strong> Intel Core i5-12400F - 2.5GHz - 6x12 (no E-core).</li>
+  <li><strong>Mem:</strong> 16GB (1x 16GB DDR4).</li>
+  <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li>
+  <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
+  <li><strong>System:</strong> Windows 10 Pro.</li>
+</ul>
+
 #### Laptop specs
 
 <ul>
-  <li><strong>CPU:</strong> Intel Core i5 1135G7 - 2.42GHz - 4x8.</li>
+  <li><strong>CPU:</strong> Intel Core i5-1135G7 - 2.42GHz - 4x8.</li>
   <li><strong>Mem:</strong> 16GB (2x 8GB DDR4).</li>
   <li><strong>GPU:</strong> NVIDIA GeForce MX330 (bad).</li>
   <li><strong>Disk:</strong> NVMe Intel SSD 512GB.</li>
-  <li><strong>System:</strong> Windows 10 Home (poor).</li>
+  <li><strong>System:</strong> Windows 10 Pro.</li>
 </ul>
 
 #### Other
