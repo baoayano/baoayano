@@ -1,4 +1,4 @@
-<h2>Hello, I'm Rushie!</h2>
+<h2>Hello, I'm Ayano!</h2>
 
 <ul>
   <li>💻 A casual student/website developer.</li>
@@ -8,16 +8,16 @@
 
 ### Statistics
 
-![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiedev&show_icons=true&theme=merko&hide_border=true)
+![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanohayakawa&show_icons=true&theme=merko&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiedev&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanohayakawa&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 
 ### My current setup
 
 #### Desktop specs
 
 <ul>
-  <li><strong>CPU:</strong> Intel Core i5-12400F - 2.5GHz - 6x12 (no E-core).</li>
+  <li><strong>CPU:</strong> Intel Core i5-12400F - 2.5GHz - 6x12.</li>
   <li><strong>Mem:</strong> 16GB (1x 16GB DDR4).</li>
   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li>
   <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
@@ -44,8 +44,8 @@
 ### Contact
 
 <ul>
-  <li><strong>Mail:</strong> planet@rushie.space.</li>
-  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/twintwice.dev/">Doan Bao</a>.</li>
+  <li><strong>Mail:</strong> business@ayano.tech.</li>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/nekomiya.dev/">Doan Bao</a>.</li>
   <li><strong>Twitter:</strong> <a href="https://twitter.com/mira_rushie">Rushie</a>.</li>
 </ul>
 
