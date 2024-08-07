@@ -1,8 +1,8 @@
 <hr>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/5f88e02c-f26f-4fc6-9358-22bebabcd4bd" align="right">
-  <img src="https://github.com/user-attachments/assets/673b7145-51af-48a7-8b94-2bf421160bda">
+  <img src="https://github.com/user-attachments/assets/5f88e02c-f26f-4fc6-9358-22bebabcd4bd" width="300" align="right">
+  <img src="https://github.com/user-attachments/assets/673b7145-51af-48a7-8b94-2bf421160bda" width="500">
 </div>
 <br>
 <ul>
@@ -11,14 +11,14 @@
   <li>👋 I'm also an introvert (nevermind).</li>
 </ul>
 <br>
-<img src="https://github.com/user-attachments/assets/191caeac-9888-4aa5-8928-6181f7a20dd8">
+<img src="https://github.com/user-attachments/assets/191caeac-9888-4aa5-8928-6181f7a20dd8" width="500">
 <br><br>
 
 ![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanohayakawa&show_icons=true&theme=merko&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanohayakawa&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 
-<img src="https://github.com/user-attachments/assets/849d658d-946b-4cd4-8982-0e3beafaa371">
+<img src="https://github.com/user-attachments/assets/849d658d-946b-4cd4-8982-0e3beafaa371" width="500">
 
 #### Desktop specs
 
@@ -47,7 +47,7 @@
   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li>
 </ul>
 <br>
-<img src="https://github.com/user-attachments/assets/ff975b46-f3dc-4ef7-84f0-77e5901f37ff">
+<img src="https://github.com/user-attachments/assets/ff975b46-f3dc-4ef7-84f0-77e5901f37ff" width="500">
 <br><br>
 
 <ul>
