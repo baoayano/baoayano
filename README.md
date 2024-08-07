@@ -1,27 +1,25 @@
 <hr>
-
 <div>
-  <img src="https://github.com/user-attachments/assets/f8e1d67d-c23d-4374-8376-b88250f1f50b" width="300" align="right">
+  <img src="https://github.com/user-attachments/assets/7c419603-f6dd-47a8-95ba-fa77b8d6f07a" width="300" align="right">
+  <img src="https://github.com/user-attachments/assets/8ce59225-011a-478b-869a-839b4a491280" width="500">
 </div>
 <br>
-<img src="https://github.com/user-attachments/assets/673b7145-51af-48a7-8b94-2bf421160bda" width="500">
-<br><br>
 <ul>
-  <li>💻 A casual student/website developer.</li>
-  <li>♥️ I love music and web design.</li>
-  <li>👋 I'm also an introvert (nevermind).</li>
+  <li>Name: <b>Doan Bao</b>.</li>
+  <li>A casual student/website developer.</li>
+  <li>Currently studying: <b>Website Development</b>.</li>
+  <li>I'm also an introvert ;-; (nevermind).</li>
 </ul>
 <br>
-<img src="https://github.com/user-attachments/assets/191caeac-9888-4aa5-8928-6181f7a20dd8" width="500">
+<img src="https://github.com/user-attachments/assets/cdd1dd60-26aa-42cc-b747-f3f0f3338d39" width="500">
 <br><br>
 
 ![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanohayakawa&show_icons=true&theme=merko&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanohayakawa&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 
-<img src="https://github.com/user-attachments/assets/849d658d-946b-4cd4-8982-0e3beafaa371" width="500">
-
-#### Desktop specs
+<img src="https://github.com/user-attachments/assets/e0745965-9248-4210-ab87-41f23403cb90" width="500">
+<br><br>
 
 <ul>
   <li><strong>CPU:</strong> Intel Core i5-12400F - 2.5GHz - 6x12.</li>
@@ -29,26 +27,11 @@
   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li>
   <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
   <li><strong>System:</strong> Windows 10 Pro.</li>
-</ul>
-
-#### Laptop specs
-
-<ul>
-  <li><strong>CPU:</strong> Intel Core i5-1135G7 - 2.42GHz - 4x8.</li>
-  <li><strong>Mem:</strong> 16GB (2x 8GB DDR4).</li>
-  <li><strong>GPU:</strong> NVIDIA GeForce MX330 (bad).</li>
-  <li><strong>Disk:</strong> NVMe Intel SSD 512GB.</li>
-  <li><strong>System:</strong> Windows 10 Pro.</li>
-</ul>
-
-#### Other
-
-<ul>
   <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li>
   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li>
 </ul>
 <br>
-<img src="https://github.com/user-attachments/assets/ff975b46-f3dc-4ef7-84f0-77e5901f37ff" width="500">
+<img src="https://github.com/user-attachments/assets/1283e431-0184-4a9b-b787-b2bbdfe43836" width="500">
 <br><br>
 
 <ul>
