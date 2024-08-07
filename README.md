@@ -1,10 +1,11 @@
 <hr>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/5f88e02c-f26f-4fc6-9358-22bebabcd4bd" width="300" align="right">
-  <img src="https://github.com/user-attachments/assets/673b7145-51af-48a7-8b94-2bf421160bda" width="500">
+  <img src="https://github.com/user-attachments/assets/f8e1d67d-c23d-4374-8376-b88250f1f50b" width="300" align="right">
 </div>
 <br>
+<img src="https://github.com/user-attachments/assets/673b7145-51af-48a7-8b94-2bf421160bda" width="500">
+<br><br>
 <ul>
   <li>💻 A casual student/website developer.</li>
   <li>♥️ I love music and web design.</li>
@@ -56,7 +57,7 @@
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
-<br><br>
+<br>
 ### Buy me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asako)
