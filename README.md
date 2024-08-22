@@ -35,7 +35,7 @@
 <br><br>
 
 <ul>
-  <li><strong>Mail:</strong> business@ayano.tech.</li>
+  <li><strong>Mail:</strong> planet@rushie.space.</li>
   <li><strong>X (Twitter):</strong> <a href="https://x.com/mira_rushie">Rushie</a>.</li>
 </ul>
 
