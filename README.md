@@ -14,9 +14,9 @@
 <img src="https://github.com/user-attachments/assets/cdd1dd60-26aa-42cc-b747-f3f0f3338d39" width="500">
 <br><br>
 
-![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanohayakawa&show_icons=true&theme=merko&hide_border=true)
+![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoayano&show_icons=true&theme=merko&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanohayakawa&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoayano&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 
 <img src="https://github.com/user-attachments/assets/e0745965-9248-4210-ab87-41f23403cb90" width="500">
 <br><br>
