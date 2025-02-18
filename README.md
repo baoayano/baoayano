@@ -26,8 +26,8 @@
   <li><strong>Mem:</strong> 16GB (1x 16GB DDR4).</li>
   <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li>
   <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
-  <li><strong>System:</strong> Windows 10 Pro.</li>
-  <li><strong>Mouse:</strong> Logitech G304 Lightspeed (White).</li>
+  <li><strong>System:</strong> Windows 11 Pro/Debian 12.</li>
+  <li><strong>Mouse:</strong> Logitech G403.</li>
   <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li>
 </ul>
 <br>
