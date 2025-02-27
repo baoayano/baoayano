@@ -14,23 +14,9 @@
 <img src="https://github.com/user-attachments/assets/cdd1dd60-26aa-42cc-b747-f3f0f3338d39" width="500">
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoayano&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
 ![TwinTwice's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoayano&show_icons=true&theme=merko&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baoayano&theme=merko&hide_border=true)](https://github.com/rushiedev/rushiedev)
-
-<img src="https://github.com/user-attachments/assets/e0745965-9248-4210-ab87-41f23403cb90" width="500">
-<br><br>
-
-<ul>
-  <li><strong>CPU:</strong> Intel Core i5-12400F - 2.5GHz - 6x12.</li>
-  <li><strong>Mem:</strong> 16GB (1x 16GB DDR4).</li>
-  <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060 12GB.</li>
-  <li><strong>Disk:</strong> NVMe SSD 512GB.</li>
-  <li><strong>System:</strong> Windows 11 Pro/Debian 12.</li>
-  <li><strong>Mouse:</strong> Logitech G403.</li>
-  <li><strong>Keyboard:</strong> Fuhlen T87s Wireless White Red Switch.</li>
-</ul>
-<br>
 <img src="https://github.com/user-attachments/assets/1283e431-0184-4a9b-b787-b2bbdfe43836" width="500">
 <br><br>
 
