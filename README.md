@@ -21,6 +21,11 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
 <br>
-#### For Donation
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asako)
+<h3>⭐ Achievements</h3>
+
+![So good I can't handle it](https://camo.githubusercontent.com/0448b00c11f371fc588647e0d2f2d4067bce73c7c3005a0c6314bfd267638491/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67)
+![Signed the contract](https://camo.githubusercontent.com/2b472ec256707c70f502f93de91862d4ad1e59cf4ed64863e6ad5c1424e533ee/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d61686f752d73686f756a6f2d312e706e67)
+![Gettin' your keys on!](https://camo.githubusercontent.com/17cf4ec6662fbcaba370569ff82d6158bbc6fd80cfc0d9375d101ed02aae1686/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d757369632d312e706e67)
+
+*get some achievements here: [achievements.md](https://github.com/anime-plus/graph/blob/main/achievements.md)*
