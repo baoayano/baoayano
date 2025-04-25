@@ -7,11 +7,9 @@ I build things mostly for fun, curiosity, and sometimes just to see if I can.
 <br>
 Currently exploring modern web tech, UI/UX, and enjoying the process one line of code at a time.
 
-<h3>🌐 Tech stacks</h3>
+<h3>🌐 Tech stack</h3>
 
-![](https://skillicons.dev/icons?i=html,css,js,php,cpp)
-
-![](https://skillicons.dev/icons?i=ts,react,next,astro,tailwind,scss)
+![](https://skillicons.dev/icons?i=ts,cpp,php,react,next,tailwind,scss)
 
 <h3>🛠️ Tools</h3>
 
