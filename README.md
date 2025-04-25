@@ -9,7 +9,7 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 <h3>🌐 Languages</h3>
 
-![](https://skillicons.dev/icons?i=cpp,ts,react,next,astro,html,css)
+![](https://skillicons.dev/icons?i=cpp,ts,react,next,astro,html,css,php)
 
 <h3>🛠️ Tools</h3>
 
