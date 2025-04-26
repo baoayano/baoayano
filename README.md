@@ -1,5 +1,7 @@
-<h2>👋 Hi there, I'm Bảo!</h2>
-<img src="https://baoayano.github.io/wp.png" width="300" align="right">
+<div>
+  <img src="https://baoayano.github.io/wp.png" width="300" align="right">
+  <h3>👋 Hi there, I'm Bảo!</h3>
+</div>
 I'm a casual Frontend Developer who started coding at 13.
 <br>
 I build things mostly for fun, curiosity, and sometimes just to see if I can.
